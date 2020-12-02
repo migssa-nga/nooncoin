@@ -50,3 +50,7 @@ https://nooncoin.info
 # Comunity
 - [**Telegram Group**](https://t.me/nooncurrency)
 - [**Discord Server**](https://discord.gg/Q6c22SMS9Y)
+
+# License
+Nooncoin is released under the terms of the [MIT License](LICENSE). See more
+information at https://opensource.org/licenses/MIT.
