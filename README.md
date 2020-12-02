@@ -4,6 +4,32 @@ One notable innovation is the blockhain protocol, which was pioneered by the cry
 As we already know, many cryptocurrencies emerge every day carrying the same mission but do not have a big influence on the development of blockchain technology because many of them only use the same source code and only replace it a little without considering what functions and problems will be fixed.
 
 With this opportunity in mind, our creation of Nooncurrency and the NOON Platform appeared in July 2019, after going through a difficult time in development and conducting various tests to prevent bugs or problems in the future, we are ready to publish a digital currency called Noon to everyone. with the aim of shortening transaction times and providing the lowest fees to users with the best quality and security.
+# Get started
+```sudo apt-get update```
+
+```sudo apt-get upgrade```
+
+```git clone https://github.com/nooncoin/nooncoin```
+
+```cd nooncoin```
+## Dependencies
+```sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils python3 libboost-system-dev libboost-filesystem-dev libboost-chrono-dev libboost-test-dev libboost-thread-dev libboost-all-dev libboost-program-options-dev```
+
+```sudo apt-get install libminiupnpc-dev libzmq3-dev libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-dev-tools libprotobuf-dev protobuf-compiler libqrencode-dev unzip doxygen cmake libgmp3-dev```
+### Install Berkeley DB.
+```sudo add-apt-repository ppa:bitcoin/bitcoin```
+
+```sudo apt-get update```
+
+```sudo apt-get install libdb4.8-dev libdb4.8++-dev```
+## Build from source code
+```./autogen.sh```
+
+```./configure```
+
+```make```
+
+Read more : https://github.com/nooncoin/nooncoin/tree/main/doc
 
 # Nooncoin specifications:
 &nbsp; | &nbsp;
